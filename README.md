@@ -1,6 +1,6 @@
 # Node Express Redis Socket Client
 
-Uses Socket IO to connect and disconnect users.<br /><br />
+Uses Socket IO to connect and disconnect users.<br />
 
 Redis functionality is in development.
 
