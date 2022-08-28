@@ -1,0 +1,9 @@
+{
+  "allowParens": "always",
+  "semi": true,
+  "tabWidth": 4,
+  "bracketSpacing": true,
+  "singleQuotes": true,
+  "jsxBracketSameLine": false,
+  "printWidth": 120
+}
