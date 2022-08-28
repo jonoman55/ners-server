@@ -1,4 +1,4 @@
-# Node Express Redis Socket Client
+# Node Express Redis Socket Server
 
 Uses Socket IO to connect and disconnect users.<br />
 
